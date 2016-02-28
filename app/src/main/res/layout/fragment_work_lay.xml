@@ -61,7 +61,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="app.marc.cinetracker_m8.Work_Fragment">
+    tools:context="marc.cinetracker_m8.Work_Fragment">
 
     <org.osmdroid.views.MapView
         android:id="@+id/mapView"
